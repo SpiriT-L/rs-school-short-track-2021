@@ -21,7 +21,6 @@ function getCommonCharacterCount(s1, s2) {
       result++;
     }
   }
-
   return result;
 }
 
